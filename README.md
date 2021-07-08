@@ -15,3 +15,8 @@ Microsoft .NET Framework
 C/C++
 
 Python
+
+Termux
+
+MSYS2
+
