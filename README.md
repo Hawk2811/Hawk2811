@@ -18,5 +18,3 @@ Python
 
 Termux
 
-MSYS2
-
