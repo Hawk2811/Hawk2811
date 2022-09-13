@@ -2,7 +2,7 @@
 
 :wave: Eu sou Hawk
 
-:man_technologist: Eu sei Batch, VB .NET, Python, C/C++
+:man_technologist: Eu sei Batch, VB .NET, Python, C/C++, Java
 
 
 
