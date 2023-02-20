@@ -4,6 +4,8 @@
 
 :man_technologist: Eu sei Batch, VB .NET, Python, C/C++, Java
 
+:books: Estou Aprendendo HTML,CSS,Javascript e Desenvolvimento Android
+
 
 
 <div align="center">
