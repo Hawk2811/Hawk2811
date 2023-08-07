@@ -4,7 +4,7 @@
 
 :man_technologist: Eu sei Batch, VB .NET, Python, C/C++, Java
 
-:books: Estou Aprendendo Desenvolvimento Android
+:dart: Estou focando em Java e Python
 
 
 
