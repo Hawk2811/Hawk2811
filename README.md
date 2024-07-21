@@ -1,10 +1,11 @@
-# Ola
+# :wave: Hi, I'm Hawk
 
-:wave: Eu sou Hawk
+:man_technologist: Programming and Computer Science student since 11 years old
 
-:man_technologist: Eu sei Batch, VB .NET, Python, C/C++, Java
+:books: I know a little VB .net, Batch, Shell Script, Java, Python, C/C++
 
-:dart: Estou focando em Java e Python
+
+Fun Fact: I Love Cats :cat:
 
 
 
