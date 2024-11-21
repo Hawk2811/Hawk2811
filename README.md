@@ -1,11 +1,11 @@
-# :wave: Hi, I'm Hawk
+# :wave: Ola eu sou o Hawk
 
-:man_technologist: Programming and Computer Science student since 11 years old
+:man_technologist: Estudante de Programação e Ciencia da Computação desde os 11 anos de Idade
 
-:books: I know a little VB .net, Batch, Shell Script, Java, Python, C/C++
+:books: Sei um pouco sobre VB .net, Batch, Shell Script, Java, Python, C/C++
+:books: Estou aprendendo Desenvolvimento Web(HTML, CSS, JS)
 
-
-Fun Fact: I Love Cats :cat:
+Curiosidade: Gosto de Gatos :cat:
 
 
 
