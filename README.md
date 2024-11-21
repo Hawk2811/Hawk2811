@@ -3,6 +3,7 @@
 :man_technologist: Estudante de Programação e Ciencia da Computação desde os 11 anos de Idade
 
 :books: Sei um pouco sobre VB .net, Batch, Shell Script, Java, Python, C/C++
+
 :books: Estou aprendendo Desenvolvimento Web(HTML, CSS, JS)
 
 Curiosidade: Gosto de Gatos :cat:
