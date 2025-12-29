@@ -1,4 +1,4 @@
-# :wave: Ola eu sou o Pedro mas na internet me chame de Hawk
+<h1 align="left">Ola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> eu sou o Pedro mas na internet me chame de Hawk</h1>
 
 :man_technologist: Estudante de Programação e Ciencia da Computação desde os 11 anos de Idade
 
