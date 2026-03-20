@@ -4,7 +4,7 @@
 
 :books: Sei sobre VB .net, Batch, Python, C/C++
 
-:books: Estou aprendendo Desenvolvimento Web(HTML, CSS, JS)
+:books: Estou aprendendo Desenvolvimento Web(HTML, CSS, JS) e Java
 
 Curiosidade: Gosto de Gatos :cat:
 
@@ -19,6 +19,5 @@ Curiosidade: Gosto de Gatos :cat:
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualbasic/visualbasic-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg">
 </div>
