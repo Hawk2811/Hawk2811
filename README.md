@@ -16,9 +16,12 @@ Curiosidade: Gosto de Gatos :cat:
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg">  
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/visualbasic/visualbasic-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/Hawk2811/Hawk2811/refs/heads/main/icons/csharp-original.svg">  
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/Hawk2811/Hawk2811/refs/heads/main/icons/cplusplus-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/Hawk2811/Hawk2811/refs/heads/main/icons/c-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/Hawk2811/Hawk2811/refs/heads/main/icons/python-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/Hawk2811/Hawk2811/refs/heads/main/icons/visualbasic-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/Hawk2811/Hawk2811/refs/heads/main/icons/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/Hawk2811/Hawk2811/refs/heads/main/icons/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/Hawk2811/Hawk2811/refs/heads/main/icons/javascript-original.svg">
 </div>
