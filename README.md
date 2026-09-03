@@ -1,27 +1,23 @@
-<h1 align="left">Ola <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> eu sou o Pedro mas na internet me chame de Hawk</h1>
+<h1>EM REFORMA</h1>
 
-:man_technologist: Estudante de Programação e Ciencia da Computação desde os 11 anos de Idade
-
-:books: Sei sobre VB .net, Batch, Python, C/C++
-
-:books: Estou aprendendo Desenvolvimento Web(HTML, CSS, JS) e C#
-
-Curiosidade: Gosto de Gatos :cat:
+<h1 align="center">Olá, eu sou o Pedro <img src="https://raw.githubusercontent.com/Hawk2811/Hawk2811/main/ola.gif" width="25px"></h1>
+<p align="center">
+  Estudante e entusiasta de tecnologia e programação desde 2018<br>
+  Estudo sistemas operacionais, linguagens de programação, inteligencia artificial e historia da computação 
+</p>
 
 
+![Minhas Skills](https://skillicons.dev/icons?i=dotnet,c,cpp,&theme=dark)
+
+<h2>Overview</h2>
 <div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hawk2811&theme=github_dark">
+<img  src="https://streak-stats.demolab.com/?user=Hawk2811&theme=dark" height="275">
+</div>
+<div align="center">
+
   <a href="https://github.com/Hawk2811">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Hawk2811&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hawk2811&layout=compact&theme=dark">
+  <img height="205" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hawk2811&theme=github_dark"/>
+  <img height="205" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hawk2811&theme=github_dark"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/Hawk2811/Hawk2811/refs/heads/main/icons/csharp-original.svg">  
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/Hawk2811/Hawk2811/refs/heads/main/icons/cplusplus-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/Hawk2811/Hawk2811/refs/heads/main/icons/c-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/Hawk2811/Hawk2811/refs/heads/main/icons/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/Hawk2811/Hawk2811/refs/heads/main/icons/visualbasic-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/Hawk2811/Hawk2811/refs/heads/main/icons/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/Hawk2811/Hawk2811/refs/heads/main/icons/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/Hawk2811/Hawk2811/refs/heads/main/icons/javascript-original.svg">
-</div>
