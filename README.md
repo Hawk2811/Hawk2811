@@ -13,7 +13,7 @@
 
 ## Projetos principais
 - [Site da minha equipe de automobilismo virtual](https://catracingteam.com.br/)
-- Em breve vou colocar mais projetos : )
+- Em breve vou colocar mais projetos aqui
 
 ## Minha stack atual(que estou aprendendo)
 ![Minha Stack Atual](https://skillicons.dev/icons?i=cs,dotnet,html,css,js&theme=dark)
@@ -26,8 +26,8 @@
 
 <h2>Overview</h2>
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hawk2811&theme=github_dark">
-<img  src="https://streak-stats.demolab.com/?user=Hawk2811&theme=dark" height="275">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hawk2811&theme=github_dark&name=Pedro Miranda (Hawk)">
+<img src="https://streak-stats.demolab.com/?user=Hawk2811&theme=dark" height="275">
 </div>
 <div align="center">
 
