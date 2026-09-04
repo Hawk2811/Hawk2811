@@ -4,8 +4,25 @@
   Estudo sistemas operacionais, linguagens de programação, inteligencia artificial e historia da computação 
 </p>
 
+## Sobre mim
+- Estou estudando para entrar na area de T.I mais especificamente como Desenvolvedor de Software
+- Tenho interesse forte por <strong>sistemas operacionais</strong> e tecnologia
+- Gosto de <strong>computação retro</strong> e <strong>emular</strong> computadores antigos e <strong>programar</strong> esses computadores antigos
+- tambem tenho interesse em aplicações desktop e mobile
 
-![Minhas Skills](https://skillicons.dev/icons?i=dotnet,c,cpp,&theme=dark)
+
+## Projetos principais
+- [Site da minha equipe de automobilismo virtual](https://catracingteam.com.br/)
+- Em breve vou colocar mais projetos : )
+
+## Minha stack atual(que estou aprendendo)
+![Minha Stack Atual](https://skillicons.dev/icons?i=cs,dotnet,html,css,js&theme=dark)
+
+## Linguagens que eu gosto
+![Linguagens que eu gosto](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,python&theme=dark)
+
+## Linguagens que estou pesquisando sobre
+![Linguagens que eu gosto](https://skillicons.dev/icons?i=java,rust,go&theme=dark)
 
 <h2>Overview</h2>
 <div align="center">
@@ -18,5 +35,3 @@
   <img height="205" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hawk2811&theme=github_dark"/>
   <img height="205" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hawk2811&theme=github_dark"/>
 </div>
-
-
